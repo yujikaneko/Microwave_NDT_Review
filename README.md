@@ -32,7 +32,6 @@ In 1999, a doctoral thesis titled "A Study on Microwave Non-Destructive Evaluati
 - `docs/`: Contains the original thesis and related documentation.
 - `notebooks/`: Jupyter notebooks with analyses, simulations, and replication attempts, accessible via Google Colab.
 - `references/`: Supplementary materials and literature relevant to microwave NDT.
-- `scripts/`: Python scripts used for data analysis and modeling.
 
 ## Getting Started
 
