@@ -41,7 +41,7 @@ In 1999, a doctoral thesis titled "A Study on Microwave Non-Destructive Evaluati
 Our Jupyter notebooks are designed to run seamlessly on Google Colab, eliminating the need for local installation. To access and run a notebook:
 
 1. **Navigate to the `notebooks/` directory**: Browse the list of available notebooks.
-2. **Open a notebook**: Click on the desired notebook file (e.g., `JuYang.ipynb`).
+2. **Open a notebook**: Click on the desired notebook file (e.g., `Reevaluation_of_Microwave_NDT_Theory.ipynb`).
 3. **Launch in Google Colab**: Click the "Open in Colab" button at the top of the notebook.
 4. **Run the notebook**: Execute the code cells sequentially to perform analyses or reproduce experiments.
 
