@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is dedicated to the critical evaluation of a doctoral thesis titled "A Study on Microwave Non-Destructive Evaluation of Delamination in IC Package," presented at Tohoku University in 1999. Our objective is to assess the research integrity of this work by identifying potential Questionable Research Practices (QRP) and fostering an open scientific discussion.&#8203;:contentReference[oaicite:2]{index=2}
+This repository is dedicated to the critical evaluation of a doctoral thesis titled "A Study on Microwave Non-Destructive Evaluation of Delamination in IC Package," presented at Tohoku University in 1999. Our objective is to assess the research integrity of this work by identifying potential Questionable Research Practices (QRP) and fostering an open scientific discussion.
 
 ## Table of Contents
 
@@ -18,55 +18,55 @@ This repository is dedicated to the critical evaluation of a doctoral thesis tit
 
 ## Background
 
-:contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+In 1999, a doctoral thesis titled "A Study on Microwave Non-Destructive Evaluation of Delamination in IC Package" was submitted to Tohoku University. Concerns have been raised regarding the research practices employed in this study, specifically potential deficiencies in theoretical modeling, experimental methodology, and data reporting. This repository aims to scrutinize these aspects to ensure adherence to ethical research standards.
 
 ## Objectives
 
-- **Critical Analysis**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- **Reproducibility Assessment**: :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-- **Community Engagement**: :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-- **Educational Resource**: :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
+- **Critical Analysis**: Re-examine the theoretical models, methodologies, and conclusions presented in the thesis.
+- **Reproducibility Assessment**: Attempt to replicate key experiments and analyses to verify the results.
+- **Community Engagement**: Invite experts in microwave NDT and related fields to provide insights and feedback.
+- **Educational Resource**: Serve as a case study on research integrity and the identification of QRP.
 
 ## Repository Structure
 
-- `docs/`: :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-- `notebooks/`: :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-- `references/`: :contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
-- `scripts/`: :contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}
+- `docs/`: Contains the original thesis and related documentation.
+- `notebooks/`: Jupyter notebooks with analyses, simulations, and replication attempts, accessible via Google Colab.
+- `references/`: Supplementary materials and literature relevant to microwave NDT.
+- `scripts/`: Python scripts used for data analysis and modeling.
 
 ## Getting Started
 
 ### Accessing Notebooks via Google Colab
 
-:contentReference[oaicite:21]{index=21}&#8203;:contentReference[oaicite:22]{index=22}
+Our Jupyter notebooks are designed to run seamlessly on Google Colab, eliminating the need for local installation. To access and run a notebook:
 
-1. **Navigate to the `notebooks/` directory**: :contentReference[oaicite:23]{index=23}&#8203;:contentReference[oaicite:24]{index=24}
-2. **Open a notebook**: :contentReference[oaicite:25]{index=25}&#8203;:contentReference[oaicite:26]{index=26}
-3. **Launch in Google Colab**: :contentReference[oaicite:27]{index=27}&#8203;:contentReference[oaicite:28]{index=28}
-4. **Run the notebook**: :contentReference[oaicite:29]{index=29}&#8203;:contentReference[oaicite:30]{index=30}
+1. **Navigate to the `notebooks/` directory**: Browse the list of available notebooks.
+2. **Open a notebook**: Click on the desired notebook file (e.g., `JuYang.ipynb`).
+3. **Launch in Google Colab**: Click the "Open in Colab" button at the top of the notebook.
+4. **Run the notebook**: Execute the code cells sequentially to perform analyses or reproduce experiments.
 
-*&#8203;:contentReference[oaicite:31]{index=31}*&#8203;:contentReference[oaicite:32]{index=32}
+*Note: Google Colab provides free access to GPU resources and pre-installed libraries, facilitating efficient execution of the notebooks.*
 
 ## Contributing
 
-:contentReference[oaicite:33]{index=33}&#8203;:contentReference[oaicite:34]{index=34}
+We welcome contributions from the community to enhance the quality and depth of this evaluation. Your insights, feedback, and active participation are invaluable to us.
 
 ### Providing Feedback through GitHub Issues
 
-:contentReference[oaicite:35]{index=35}&#8203;:contentReference[oaicite:36]{index=36}
+The primary method for contributing is by engaging in discussions through GitHub Issues:
 
-1. **Navigate to the Issues section**: :contentReference[oaicite:37]{index=37}&#8203;:contentReference[oaicite:38]{index=38}
+1. **Navigate to the Issues section**: Click on the "Issues" tab at the top of this repository.
 2. **Create a new Issue**:
-   - :contentReference[oaicite:39]{index=39}&#8203;:contentReference[oaicite:40]{index=40}
-   - :contentReference[oaicite:41]{index=41}&#8203;:contentReference[oaicite:42]{index=42}
-3. **Submit the Issue**: :contentReference[oaicite:43]{index=43}&#8203;:contentReference[oaicite:44]{index=44}
+   - Click on the "New issue" button.
+   - Provide a descriptive title and detailed description of your feedback, question, or suggestion.
+3. **Submit the Issue**: Click "Submit new issue" to post your contribution.
 
-*&#8203;:contentReference[oaicite:45]{index=45}*&#8203;:contentReference[oaicite:46]{index=46}
+*For more detailed guidance on using GitHub Issues, refer to the [GitHub Docs](https://docs.github.com/en/issues).*
 
 ## License
 
-:contentReference[oaicite:47]{index=47}&#8203;:contentReference[oaicite:48]{index=48}
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-:contentReference[oaicite:49]{index=49}&#8203;:contentReference[oaicite:50]{index=50}
+We extend our gratitude to the researchers and professionals who have provided invaluable feedback and support in this endeavor. Special thanks to the open-source community for fostering a collaborative environment that makes projects like this possible.
